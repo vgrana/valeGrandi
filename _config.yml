@@ -3,3 +3,5 @@ url: "https://sylhare.github.io"
 title: Curriculum vitae # site's 
 description: "A website with blog posts and pages" # used by search engines
 
+
+theme: jekyll-theme-architect
