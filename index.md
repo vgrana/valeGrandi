@@ -1,7 +1,7 @@
 ## Curriculum vitae
 
-Valeria Grandi
-Nacida el 16/09/1980
+- Valeria Grandi
+- Nacida el 16/09/1980
 
 ### Markdown
 
