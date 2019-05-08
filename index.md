@@ -30,12 +30,12 @@ Tel. 02478-481768
 Capitán Sarmiento (Bs. As.)
 
 **Estudios Complementarios**
-Carrera: _Analista  programador, Operador  PC , Windows, Word, Access, Excel, Power  Point._
+ _Analista  programador, Operador  PC , Windows, Word, Access, Excel, Power  Point._
 _Internet, Flash, Plataforma Siap, IIB2, Outlook Express, Publisher._ 
-- Técnico en liquidación de sueldo y cargas sociales (IDIIP),
-- Mandataria Nacional del registro del automotor y créditos prendarios
-- Curso de Manipulación de alimentos (Centro de Formación profesional)
-- Curso de Portugués, duracion 1 año (Centro de Formación profesional)
+Técnico en liquidación de sueldo y cargas sociales (IDIIP),
+Mandataria Nacional del registro del automotor y créditos prendarios
+Curso de Manipulación de alimentos (Centro de Formación profesional)
+Curso de Portugués, duracion 1 año (Centro de Formación profesional)
 
 
 ## Header 2
