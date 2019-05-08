@@ -16,8 +16,6 @@
 Estudiante 3° año Tecnicatura Universitaria en Programación Informática
 Universidad de Quilmes
 ```
-´´´
-
 **Educación Universitaria**
 ```markdown
 Técnica Universitaria En Gestión de Empresas Agropecuarias.
@@ -39,7 +37,6 @@ Guido Lucotti 757
 Tel. 02478-481768
 Capitán Sarmiento (Bs. As.)
 ```
-´´´
 
 ## Header 2
 ### Header 3
