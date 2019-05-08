@@ -12,15 +12,18 @@
 ### Formación académica
 
 **Educación Universitaria Actual**
+```markdown
 Estudiante 3° año Tecnicatura Universitaria en Programación Informática
 Universidad de Quilmes
 
 **Educación Universitaria**
+```markdown
 Técnica Universitaria En Gestión de Empresas Agropecuarias.
 Universidad Blas Pascal
 Año de egreso: 2010
 
 **Estudios universitarios no concluidos**
+```markdown
 Licenciatura en Administración de Empresas
 Universidad Nacional de Luján
 Tel. 02323-423171
