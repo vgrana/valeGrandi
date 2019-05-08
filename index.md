@@ -1,8 +1,4 @@
-## Curriculum vitae
-
-
-
-
+### Datos personales
 - Nacida el 16/09/1980
 - Estado civil: concubinato
 - Hijos: 1
@@ -12,34 +8,29 @@
 ### Formación académica
 
 **Educación Universitaria Actual**
-```markdown
 Estudiante 3° año Tecnicatura Universitaria en Programación Informática
 Universidad de Quilmes
-```
+ 
 **Educación Universitaria**
-```markdown
 Técnica Universitaria En Gestión de Empresas Agropecuarias.
 Universidad Blas Pascal
 Año de egreso: 2010
-``` 
+
 **Estudios universitarios no concluidos**
-```markdown
 Licenciatura en Administración de Empresas
 Universidad Nacional de Luján
 Tel. 02323-423171
 Intersección rutas 5 y 7.Luján. Bs.  As.
-```
+
 **Educación secundaria**
-```markdown
 Bachiller en Gestión y Administración
 Esc. Educación Media Nº 1 Dr. Mateo  Vicente Jelicich
 Guido Lucotti 757
 Tel. 02478-481768
 Capitán Sarmiento (Bs. As.)
-```
+
 **Estudios Complementarios**
-```markdown
-Carrera: _Analista  programador, Operador  PC, _Windows, Word, Access, Excel, Power  Point._
+Carrera: _Analista  programador, Operador  PC , Windows, Word, Access, Excel, Power  Point._
 _Internet, Flash, Plataforma Siap, IIB2, Outlook Express, Publisher._ 
 - Técnico en liquidación de sueldo y cargas sociales (IDIIP),
 - Mandataria Nacional del registro del automotor y créditos prendarios
