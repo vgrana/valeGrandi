@@ -16,6 +16,8 @@
 Estudiante 3° año Tecnicatura Universitaria en Programación Informática
 Universidad de Quilmes
 
+´´´
+
 **Educación Universitaria**
 ```markdown
 Técnica Universitaria En Gestión de Empresas Agropecuarias.
