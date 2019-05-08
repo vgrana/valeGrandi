@@ -17,6 +17,7 @@ Estudiante 3° año Tecnicatura Universitaria en Programación Informática
 Universidad de Quilmes
 ```
 **Educación Universitaria**
+```markdown
 Técnica Universitaria En Gestión de Empresas Agropecuarias.
 Universidad Blas Pascal
 Año de egreso: 2010
@@ -36,6 +37,15 @@ Guido Lucotti 757
 Tel. 02478-481768
 Capitán Sarmiento (Bs. As.)
 ```
+**Estudios Complementarios**
+```markdown
+Carrera: _Analista  programador, Operador  PC, _Windows, Word, Access, Excel, Power  Point._
+_Internet, Flash, Plataforma Siap, IIB2, Outlook Express, Publisher._ 
+- Técnico en liquidación de sueldo y cargas sociales (IDIIP),
+- Mandataria Nacional del registro del automotor y créditos prendarios
+- Curso de Manipulación de alimentos (Centro de Formación profesional)
+- Curso de Portugués, duracion 1 año (Centro de Formación profesional)
+
 
 ## Header 2
 ### Header 3
