@@ -11,15 +11,28 @@
 
 ### Formación académica
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
-
-# Educación Universitaria Actual
+**Educación Universitaria Actual**
 Estudiante 3° año Tecnicatura Universitaria en Programación Informática
 Universidad de Quilmes
 
+**Educación Universitaria**
+Técnica Universitaria En Gestión de Empresas Agropecuarias.
+Universidad Blas Pascal
+Año de egreso: 2010
+
+**Estudios universitarios no concluidos**
+Licenciatura en Administración de Empresas
+Universidad Nacional de Luján
+Tel. 02323-423171
+Intersección rutas 5 y 7.Luján. Bs.  As.
+
+**Educación secundaria**
+Bachiller en Gestión y Administración
+Esc. Educación Media Nº 1 Dr. Mateo  Vicente Jelicich
+Guido Lucotti 757
+Tel. 02478-481768
+Capitán Sarmiento (Bs. As.)
 
 ## Header 2
 ### Header 3
@@ -33,6 +46,7 @@ Universidad de Quilmes
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
