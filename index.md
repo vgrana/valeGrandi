@@ -23,7 +23,7 @@ Universidad de Quilmes
 Técnica Universitaria En Gestión de Empresas Agropecuarias.
 Universidad Blas Pascal
 Año de egreso: 2010
-
+``` 
 **Estudios universitarios no concluidos**
 ```markdown
 Licenciatura en Administración de Empresas
