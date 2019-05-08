@@ -9,14 +9,18 @@
 - Lugar de nacimiento: Capitán Sarmiento
 - Nacionalidad Argentina
 
-### Markdown
+### Formación académica
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Educación Universitaria Actual
+Estudiante 3° año Tecnicatura Universitaria en Programación Informática
+Universidad de Quilmes
+
+
 ## Header 2
 ### Header 3
 
