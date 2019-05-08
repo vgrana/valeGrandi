@@ -12,13 +12,13 @@
 ### Formación académica
 
 **Educación Universitaria Actual**
-## Estudiante 3° año Tecnicatura Universitaria en Programación Informática
-## Universidad de Quilmes
+Estudiante 3° año Tecnicatura Universitaria en Programación Informática
+Universidad de Quilmes
 
 **Educación Universitaria**
-## Técnica Universitaria En Gestión de Empresas Agropecuarias.
-## Universidad Blas Pascal
-## Año de egreso: 2010
+Técnica Universitaria En Gestión de Empresas Agropecuarias.
+Universidad Blas Pascal
+Año de egreso: 2010
 
 **Estudios universitarios no concluidos**
 Licenciatura en Administración de Empresas
