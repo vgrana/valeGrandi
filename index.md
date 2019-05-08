@@ -11,11 +11,13 @@
 
 ### Formación académica
 
-```markdown
+
 **Educación Universitaria Actual**
+
 ```markdown
 Estudiante 3° año Tecnicatura Universitaria en Programación Informática
 Universidad de Quilmes
+
 ´´´
 
 **Educación Universitaria**
@@ -23,6 +25,7 @@ Universidad de Quilmes
 Técnica Universitaria En Gestión de Empresas Agropecuarias.
 Universidad Blas Pascal
 Año de egreso: 2010
+
 ´´´
 
 **Estudios universitarios no concluidos**
@@ -31,6 +34,7 @@ Licenciatura en Administración de Empresas
 Universidad Nacional de Luján
 Tel. 02323-423171
 Intersección rutas 5 y 7.Luján. Bs.  As.
+
 ´´´
 
 **Educación secundaria**
@@ -40,6 +44,7 @@ Esc. Educación Media Nº 1 Dr. Mateo  Vicente Jelicich
 Guido Lucotti 757
 Tel. 02478-481768
 Capitán Sarmiento (Bs. As.)
+
 ´´´
 
 ## Header 2
