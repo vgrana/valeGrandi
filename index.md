@@ -13,23 +13,17 @@
 
 
 **Educación Universitaria Actual**
-
 ```markdown
 Estudiante 3° año Tecnicatura Universitaria en Programación Informática
 Universidad de Quilmes
 
-
-
 **Educación Universitaria**
-
 ```markdown
 Técnica Universitaria En Gestión de Empresas Agropecuarias.
 Universidad Blas Pascal
 Año de egreso: 2010
 
-
 **Estudios universitarios no concluidos**
-
 ```markdown
 Licenciatura en Administración de Empresas
 Universidad Nacional de Luján
@@ -39,7 +33,6 @@ Intersección rutas 5 y 7.Luján. Bs.  As.
 ´´´
 
 **Educación secundaria**
-
 ```markdown
 Bachiller en Gestión y Administración
 Esc. Educación Media Nº 1 Dr. Mateo  Vicente Jelicich
