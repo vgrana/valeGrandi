@@ -38,7 +38,42 @@ Curso de Manipulación de alimentos (Centro de Formación profesional)
 Curso de Portugués, duracion 1 año (Centro de Formación profesional)
 
 
-## Header 2
+### Experiencia laboral:
+ 2014 Empleada en Cablevisión Fibertel
+ Desempeño: Repartidor
+ Juan Manuel de Rosas 285
+ Capitán Sarmiento
+
+ 2007-2008 Farmacia Modelo de Giles	
+ Desempeño: tareas administrativas		
+ Moreno 620(San Andrés de Giles)
+ Tel 02325-444209
+
+ 2005-2007 Dueña en  Gestoría Integral ¨VG¨,
+ Trámites del automotor, monotributo.
+ 9 de Julio s/n. San Andrés de Giles.
+	
+ 2004 Organización ¨Spalla¨
+ Desempeño: Tareas Administrativas.
+ Tomás Vallé s/n
+ Cel: 02325-15-597028
+ Carmen de Areco (Bs. As.)
+
+ 2003- Fotocopiadora ¨La U de Luján ¨
+ Atención al público
+ Universidad de Luján
+ Ruta 5 y 7. Luján.
+
+ Pasantía Laboral: Silos Folguera S.A.
+ Duración 3 meses
+ Desempeño: Tareas Administrativas.
+ Ruta Nº 8 Km. 144
+ Tel. 02478-482661
+ Capitán Sarmiento (Bs. As.)
+
+
+
+
 ### Header 3
 
 - Bulleted
