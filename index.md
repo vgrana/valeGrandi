@@ -39,6 +39,7 @@ Curso de Portugués, duracion 1 año (Centro de Formación profesional)
 
 
 ### Experiencia laboral:
+
  2014 Empleada en Cablevisión Fibertel
  Desempeño: Repartidor
  Juan Manuel de Rosas 285
