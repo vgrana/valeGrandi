@@ -1,16 +1,4 @@
-<! DOCTYPE html>
-< html  lang = " {{site.lang | default: " en-US " }} " >
-  < cabeza >
-    < meta  charset = ' utf-8 ' >
-    < Meta  http-equiv = " X-UA-Compatible "  contenido = " IE = borde " >
-    < meta  name = " viewport "  content = " width = device-width, initial-scale = 1, maximum-scale = 1 " >
-    < link  rel = " hoja de estilo "  href = " {{'/assets/css/style.css?v=' | append: site.github.build_revision | relative_url}} "  media = " screen "  type = " text / css " >
-    < link  rel = " hoja de estilo "  href = " {{'/assets/css/print.css' | relative_url}} "  media = " print "  type = " text / css " >
-
-    <! - [si lt IE 9]>
-    <script src = "https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"> </script>
-    <! [endif] ->
-
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset='utf-8'>
@@ -81,62 +69,5 @@
     {% endif %}
   </body>
 </html>
-{% seo%}
-  </ cabeza >
 
-  < cuerpo >
-    < encabezado >
-      < div  class = " inner " >
-        < Un  href = " {{ '/' | absolute_url}} " >
-          < h1 > {{site.title | predeterminado: site.github.repository_name}} </ h1 >
-        </ a >
-        < h2 > {{site.description | predeterminado: site.github.project_tagline}} </ h2 >
-        {% if site.github.is_project_page%}
-          < Un  href = " {{}} site.github.repository_url "  clase = " botón " > < pequeña > Ver proyecto </ pequeño > GitHub </ a >
-        {% terminara si %}
-        {% if site.github.is_user_page%}
-          < Un  href = " {{}} site.github.owner_url "  clase = " botón " > < pequeña > Sígueme en </ pequeño > GitHub </ a >
-        {% terminara si %}
-      </ div >
-    </ header >
-
-    < div  id = " content-wrapper " >
-      < div  class = " clearfix interno " >
-        < section  id = " main-content " >
-          {{ contenido }}
-        </ section >
-
-        < aside  id = " sidebar " >
-          {% if site.show_downloads%}
-            < Un  href = " {{}} site.github.zip_url "  clase = " botón " >
-              < pequeño > Descargar </ pequeño >
-              .archivo zip
-            </ a >
-            < Un  href = " {{}} site.github.tar_url "  clase = " botón " >
-              < pequeño > Descargar </ pequeño >
-              archivo .tar.gz
-            </ a >
-          {% terminara si %}
-
-          {% if site.github.is_project_page%}
-            < P  clase = " repo-propietario " > < un  href = " {{}} site.github.repository_url " > {{site.github.repository_name}} </ a > es mantenida por < un  href = " {{sitio .github.owner_url}} " > {{site.github.owner_name}} </ a >. </ p >
-          {% terminara si %}
-
-          < P > Esta página fue generada por < un  href = " https://pages.github.com " > GitHub Páginas </ a >. </ P >
-        </ aparte >
-      </ div >
-    </ div >
-
-    {% if site.google_analytics%}
-      < script >
-        ( función ( i , s , o , g , r , a , m ) {i [ ' GoogleAnalyticsObject ' ] = r; i [r] = i [r] || function () {
-        (i [r]. q = i [r]. q || []). push ( argumentos )}, i [r]. l = 1 * nueva  fecha (); a = s . crearElemento (o),
-        m = s . getElementsByTagName (o) [ 0 ]; una . async = 1 ; una . src = g; m . parentNode . insertar antes de (a, m)
-        }) ( ventana , documento , ' script ' , ' //www.google-analytics.com/analytics.js ' , ' ga ' );
-        ga ( ' create ' , ' {{site.google_analytics}} ' , ' auto ' );
-        ga ( ' enviar ' , ' página vista ' );
-      </ script >
-    {% terminara si %}
-  </ cuerpo >
-</ html >
      
