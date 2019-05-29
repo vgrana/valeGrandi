@@ -1,7 +1,5 @@
----
----
+--- 
+--- 
+@import "{{site.theme}}";
 
-@import "{{ site.theme }}";
-.alineacion{
-	text-align: justify
-};
+
