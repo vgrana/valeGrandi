@@ -1,6 +1,5 @@
 
-![logo](assets/images/fotoVale.jpeg)
-
+![fotoVale](assets/images/fotoVale.jpeg)
 
 
 ### Datos personales
@@ -35,12 +34,10 @@ Tel. 02478-481768
 Capitán Sarmiento (Bs. As.)
 
 **Estudios Complementarios**
-<p class="alineacion"> Analista  programador, Operador  PC , Windows, Word, Access, Excel, Power  Point.
-Internet, Flash, Plataforma Siap, IIB2, Outlook Express, Publisher.
-Técnico en liquidación de sueldo y cargas sociales (IDIIP),
-Mandataria Nacional del registro del automotor y créditos prendarios
-Curso de Manipulación de alimentos (Centro de Formación profesional)
-Curso de Portugués, duracion 1 año (Centro de Formación profesional)</p>
+- Técnico en liquidación de sueldo y cargas sociales (IDIIP)
+- Mandataria Nacional del registro del automotor y créditos prendarios
+- Curso de Manipulación de alimentos (Centro de Formación profesional)
+- Curso de Portugués, duracion 1 año (Centro de Formación profesional).
 
 
 ### Experiencia laboral:
@@ -76,6 +73,9 @@ Curso de Portugués, duracion 1 año (Centro de Formación profesional)</p>
  Ruta Nº 8 Km. 144
  Tel. 02478-482661
  Capitán Sarmiento (Bs. As.)
+
+
+
 
 
 
