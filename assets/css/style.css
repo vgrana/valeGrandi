@@ -1,5 +1,3 @@
---- 
---- 
-@import "{{site.theme}}";
-.image fotoVale{ width: 50; height: 50;}
-
+---
+---
+@import "{{site.theme}}"
