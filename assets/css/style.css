@@ -2,4 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-.alineacion{text-align: justify}
+.alineacion{
+	text-align: justify
+};

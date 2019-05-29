@@ -30,42 +30,42 @@ Tel. 02478-481768
 Capitán Sarmiento (Bs. As.)
 
 **Estudios Complementarios**
- _Analista  programador, Operador  PC , Windows, Word, Access, Excel, Power  Point._
-_Internet, Flash, Plataforma Siap, IIB2, Outlook Express, Publisher._ 
+<p class="alineacion"> Analista  programador, Operador  PC , Windows, Word, Access, Excel, Power  Point.
+Internet, Flash, Plataforma Siap, IIB2, Outlook Express, Publisher.
 Técnico en liquidación de sueldo y cargas sociales (IDIIP),
 Mandataria Nacional del registro del automotor y créditos prendarios
 Curso de Manipulación de alimentos (Centro de Formación profesional)
-Curso de Portugués, duracion 1 año (Centro de Formación profesional)
+Curso de Portugués, duracion 1 año (Centro de Formación profesional)</p>
 
 
 ### Experiencia laboral:
 
- 2014 Empleada en Cablevisión Fibertel
+- 2014 Empleada en Cablevisión Fibertel
  Desempeño: Repartidor
  Juan Manuel de Rosas 285
  Capitán Sarmiento
 
- 2007-2008 Farmacia Modelo de Giles	
+- 2007-2008 Farmacia Modelo de Giles	
  Desempeño: tareas administrativas		
  Moreno 620(San Andrés de Giles)
  Tel 02325-444209
 
- 2005-2007 Dueña en  Gestoría Integral ¨VG¨,
+- 2005-2007 Dueña en  Gestoría Integral ¨VG¨,
  Trámites del automotor, monotributo.
  9 de Julio s/n. San Andrés de Giles.
 	
- 2004 Organización ¨Spalla¨
+- 2004 Organización ¨Spalla¨
  Desempeño: Tareas Administrativas.
  Tomás Vallé s/n
  Cel: 02325-15-597028
  Carmen de Areco (Bs. As.)
 
- 2003- Fotocopiadora ¨La U de Luján ¨
+- 2003- Fotocopiadora ¨La U de Luján ¨
  Atención al público
  Universidad de Luján
  Ruta 5 y 7. Luján.
 
- Pasantía Laboral: Silos Folguera S.A.
+- Pasantía Laboral: Silos Folguera S.A.
  Duración 3 meses
  Desempeño: Tareas Administrativas.
  Ruta Nº 8 Km. 144
@@ -73,23 +73,6 @@ Curso de Portugués, duracion 1 año (Centro de Formación profesional)
  Capitán Sarmiento (Bs. As.)
 
 
-
-
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
