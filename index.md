@@ -74,14 +74,15 @@ Capitán Sarmiento (Bs. As.)
  Tel. 02478-482661
  Capitán Sarmiento (Bs. As.)
 
-
-
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vgrana/valeGrandi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##Conocimientos en:
+<p class="imagenDeLogo">
+<i class="devicon-android-plain-wordmark colored"></i>
+<i class="devicon-github-plain-wordmark colored"></i>
+<i class="devicon-gitlab-plain-wordmark colored"></i>
+<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-mysql-plain-wordmark colored"></i>
+<i class="devicon-tomcat-line-wordmark colored"></i>
+<i class="devicon-bootstrap-plain-wordmark colored"></i></p>
 
 ### Support or Contact
 valeriagrandi@ hotmail.com
