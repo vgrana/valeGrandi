@@ -1,7 +1,7 @@
 
+
+
 ![fotoVale](assets/images/fotoVale.jpeg)
-
-
 ### Datos personales
 - Nacida el 16/09/1980
 - Estado civil: concubinato
@@ -74,16 +74,16 @@ Capitán Sarmiento (Bs. As.)
  Tel. 02478-482661
  Capitán Sarmiento (Bs. As.)
 
-##Conocimientos en:
-<p class="imagenDeLogo">
+### Conocimientos en: ###
+<p class="imagesDeLogo">
 <i class="devicon-android-plain-wordmark colored"></i>
 <i class="devicon-github-plain-wordmark colored"></i>
 <i class="devicon-gitlab-plain-wordmark colored"></i>
 <i class="devicon-javascript-plain colored"></i>
 <i class="devicon-mysql-plain-wordmark colored"></i>
 <i class="devicon-tomcat-line-wordmark colored"></i>
-<i class="devicon-bootstrap-plain-wordmark colored"></i></p>
+<i class="devicon-bootstrap-plain-wordmark colored"></i> </p>
 
-### Support or Contact
+## Support or Contact
 valeriagrandi@ hotmail.com
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
