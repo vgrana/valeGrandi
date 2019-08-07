@@ -84,6 +84,6 @@ Capitán Sarmiento (Bs. As.)
 <i class="devicon-tomcat-line-wordmark colored"></i>
 <i class="devicon-bootstrap-plain-wordmark colored"></i> </p>
 
-## Support or Contact
+## Contacto
 valeriagrandi@ hotmail.com
 
