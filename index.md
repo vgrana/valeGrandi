@@ -4,8 +4,6 @@
 ![fotoVale](assets/images/fotoVale.jpeg)
 ### Datos personales
 - Nacida el 16/09/1980
-- Estado civil: concubinato
-- Hijos: 1
 - Lugar de nacimiento: Capitán Sarmiento
 - Nacionalidad Argentina
 
