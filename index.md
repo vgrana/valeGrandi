@@ -83,10 +83,7 @@ Capitán Sarmiento (Bs. As.)
 <i class="devicon-tomcat-line-wordmark colored"></i>
 <i class="devicon-bootstrap-plain-wordmark colored"></i>
 <i class="devicon-linux-plain colored"></i>
-<i class="devicon-nodejs-plain colored"></i>
-<i class="devicon-npm-original-wordmark colored"></i>
-<i class="devicon-react-original colored"></i>
-<i class="devicon-visualstudio-plain colored"></i>
+
 </p>
 
 ## Contacto
