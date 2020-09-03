@@ -10,8 +10,9 @@
 ### Formación académica
 
 **Educación Universitaria Actual**
-Estudiante 3° año Tecnicatura Universitaria en Programación Informática
+Técnica Universitaria en Programación Informática
 Universidad de Quilmes
+Año de egreso:2020
  
 **Educación Universitaria**
 Técnica Universitaria En Gestión de Empresas Agropecuarias.
@@ -80,7 +81,15 @@ Capitán Sarmiento (Bs. As.)
 <i class="devicon-javascript-plain colored"></i>
 <i class="devicon-mysql-plain-wordmark colored"></i>
 <i class="devicon-tomcat-line-wordmark colored"></i>
-<i class="devicon-bootstrap-plain-wordmark colored"></i> </p>
+<i class="devicon-bootstrap-plain-wordmark colored"></i>
+<i class="devicon-linux-plain colored"></i>
+<i class="devicon-nodejs-plain colored"></i>
+<i class="devicon-npm-original-wordmark colored"></i>
+<i class="devicon-react-original colored"></i>
+<i class="devicon-trello-plain colored"></i>
+<i class="devicon-visualstudio-plain colored"></i>
+<i class="devicon-mongodb-plain-wordmark colored"></i>
+</p>
 
 ## Contacto
 valeriagrandi@ hotmail.com
