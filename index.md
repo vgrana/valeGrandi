@@ -87,8 +87,7 @@ Capitán Sarmiento (Bs. As.)
 <i class="devicon-npm-original-wordmark colored"></i>
 <i class="devicon-react-original colored"></i>
 <i class="devicon-visualstudio-plain colored">
-<i class="devicon-mongodb-plain-wordmark colored"></i>
-</p>
+<i class="devicon-mongodb-plain-wordmark colored"></i></p>
 
 ## Contacto
 valeriagrandi@ hotmail.com
