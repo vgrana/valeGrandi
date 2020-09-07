@@ -87,7 +87,7 @@ Capitán Sarmiento (Bs. As.)
 <i class="devicon-npm-original-wordmark colored"></i>
 <i class="devicon-react-original colored"></i>
 <i class="devicon-visualstudio-plain colored">
-<i class = "devicon-amazonwebservices-original "> </i>
+<i class="devicon-amazonwebservices-original colored"></i>
 	</i>
 
 </p>
