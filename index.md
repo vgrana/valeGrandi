@@ -88,7 +88,7 @@ Capitán Sarmiento (Bs. As.)
 <i class="devicon-react-original colored"></i>
 <i class="devicon-visualstudio-plain colored">
 <i class="devicon-amazonwebservices-original colored"></i>
-	</i>
+
 
 </p>
 
